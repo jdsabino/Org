@@ -1,10 +1,9 @@
 
 * Tarefas
 ** Administrativo
-
-*** TODO Escrever o artigo pulsar
-*** TODO Entregar comprovativo de estudos à Manon
-*** TODO Tratar do registo de residêcia permanente
+*** TODO [#A] Entregar comprovativo de estudos à Manon
+*** TODO [#B] Escrever o artigo pulsar
+*** TODO [#A] Tratar do registo de residêcia permanente
 *** DONE Planear o artigo e mandar mail ao Nuno
     SCHEDULED: <2017-10-12 qui>
 *** DONE Meter isto no GitHub
