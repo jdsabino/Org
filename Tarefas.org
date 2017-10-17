@@ -2,10 +2,11 @@
 * Tarefas
 ** Administrativo
 
+*** TODO Escrever o artigo pulsar
 *** TODO Entregar comprovativo de estudos à Manon
-*** TODO Planear o artigo e mandar mail ao Nuno
-    SCHEDULED: <2017-10-12 qui>
 *** TODO Tratar do registo de residêcia permanente
+*** DONE Planear o artigo e mandar mail ao Nuno
+    SCHEDULED: <2017-10-12 qui>
 *** DONE Meter isto no GitHub
 *** DONE Ir ao departamento de estudante
 **** DONE Enviar notas em ingles para o departamento de estudante
@@ -15,6 +16,7 @@
 
 ** Trabalho
 
+*** TODO [#A] SKYPE SEBASTIAN
 *** TODO [#A] Correr simulações (pensadas!), mostrar os resultados e melhorar o código
 *** TODO [#B] Ler o paper que o Cong me enviou
 *** TODO [#B] Simulacoes Cong
