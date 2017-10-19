@@ -30,3 +30,4 @@
 [[http://www.klavierinsel.at/][Link da prof de piano]]
 *** Bateria - Será que justifica comprar uma bateria eléctrica? Deveria saber se realmente compensa o investimento, se estou disposto a praticar e a usá-la efectivamente.
 *** Git - Aprender a usar isto é importante porque assim podemos organizar as coisas no lab e aprender com isso. Além disso os projectos pessoais ficam facilitados
+
