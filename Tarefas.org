@@ -2,6 +2,9 @@
 * Tarefas
 ** Administrativo
 *** TODO [#A] Entregar comprovativo de estudos à Manon
+    Como é o resto da inscricao?
+    Que cadeiras possso fazer
+    Vercadeiras UWien
 *** TODO [#B] Escrever o artigo pulsar
 *** TODO [#A] Tratar do registo de residêcia permanente
 *** DONE Planear o artigo e mandar mail ao Nuno
@@ -15,13 +18,14 @@
 
 ** Trabalho
 
-*** TODO [#A] SKYPE SEBASTIAN
-*** TODO [#A] Correr simulações (pensadas!), mostrar os resultados e melhorar o código
-*** TODO [#B] Ler o paper que o Cong me enviou
+*** TODO [#A] Fazer testes com multisim e tentar varrer frequencias
+*** TODO [#A] Correr mais simulacoes com diferentes frequencias e melhorar o código
 *** TODO [#B] Simulacoes Cong
     Descobrir como fazer simulacoes 2D
-*** TODO [#C] Organizar cenas do lab com o Git
-*** DONE [#A] Enviar email ao Sebastian
+*** TODO [#B] Ler o paper que o Cong me enviou
+*** DONE [#A] SKYPE 
+*** DONE Correr simulações (pensadas!), mostrar os resultados e melhorar o código
+*** DONE Enviar email ao Sebastian
 
 * Skills
 
