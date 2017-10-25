@@ -1,12 +1,12 @@
 
 * Tarefas
 ** Administrativo
-*** TODO [#A] Entregar comprovativo de estudos à Manon
+*** TODO [#B] Escrever o artigo pulsar
+*** TODO [#A] Tratar do registo de residêcia permanente
+*** DONE [#A] Entregar comprovativo de estudos à Manon
     Como é o resto da inscricao?
     Que cadeiras possso fazer
     Vercadeiras UWien
-*** TODO [#B] Escrever o artigo pulsar
-*** TODO [#A] Tratar do registo de residêcia permanente
 *** DONE Planear o artigo e mandar mail ao Nuno
     SCHEDULED: <2017-10-12 qui>
 *** DONE Meter isto no GitHub
@@ -22,6 +22,7 @@
 *** TODO [#A] Correr mais simulacoes com diferentes frequencias e melhorar o código
 *** TODO [#B] Simulacoes Cong
     Descobrir como fazer simulacoes 2D
+*** TODO [#B] Calcular energia a partir da kgrid
 *** TODO [#B] Ler o paper que o Cong me enviou
 *** DONE [#A] SKYPE 
 *** DONE Correr simulações (pensadas!), mostrar os resultados e melhorar o código
