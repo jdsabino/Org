@@ -18,12 +18,13 @@
 
 ** Trabalho
 
-*** TODO [#A] Fazer testes com multisim e tentar varrer frequencias
 *** TODO [#A] Correr mais simulacoes com diferentes frequencias e melhorar o código
+*** TODO [#A] Parar a agitacao da caixa a determinado instante e evoluir o sistema 
 *** TODO [#B] Simulacoes Cong
     Descobrir como fazer simulacoes 2D
 *** TODO [#B] Calcular energia a partir da kgrid
 *** TODO [#B] Ler o paper que o Cong me enviou
+*** DONE [#A] Fazer testes com multisim e tentar varrer frequencias
 *** DONE [#A] SKYPE 
 *** DONE Correr simulações (pensadas!), mostrar os resultados e melhorar o código
 *** DONE Enviar email ao Sebastian
