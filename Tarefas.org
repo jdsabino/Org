@@ -1,8 +1,10 @@
 
 * Tarefas
 ** Administrativo
+*** TODO [#A] Papelada FCT de renovacao do contrato
 *** TODO [#B] Escrever o artigo pulsar
 *** TODO [#A] Tratar do registo de residêcia permanente
+*** DONE [#A] Noticias ao Yasser
 *** DONE [#A] Entregar comprovativo de estudos à Manon
     Como é o resto da inscricao?
     Que cadeiras possso fazer
@@ -18,6 +20,7 @@
 
 ** Trabalho
 
+*** TODO [#A] Verificar as horas a que as imagens más foram tiradas; Analisar back gorund e comparar com imagens anteriores 
 *** TODO [#A] Correr mais simulacoes com diferentes frequencias e melhorar o código
 *** TODO [#A] Parar a agitacao da caixa a determinado instante e evoluir o sistema 
 *** TODO [#B] Simulacoes Cong
@@ -28,6 +31,8 @@
 *** DONE [#A] SKYPE 
 *** DONE Correr simulações (pensadas!), mostrar os resultados e melhorar o código
 *** DONE Enviar email ao Sebastian
+
+
 
 * Skills
 
